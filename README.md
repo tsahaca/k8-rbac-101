@@ -1,6 +1,7 @@
 # k8-rbac-101
 
 kubectl api-resources -o wide
+
 kubectl api-resources -o wide | grep -E "^deployments"
 
 [Kubernetes RBAC 101](https://www.magalix.com/blog/kubernetes-rbac-101)

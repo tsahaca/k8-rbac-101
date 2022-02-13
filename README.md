@@ -2,7 +2,7 @@
 
 kubectl api-resources -o wide
 
-[Kubernetes](https://www.magalix.com/blog/kubernetes-rbac-101)
+[Kubernetes RBAC 101](https://www.magalix.com/blog/kubernetes-rbac-101)
 
 [Kubernetes API Groups, Resources, and Verbs](https://trstringer.com/Kubernetes-API-groups-resources-verbs/)
 
